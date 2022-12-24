@@ -1,0 +1,39 @@
+body{
+    font-family: 'Are You Serious', cursive;
+font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Work Sans', sans-serif;
+background-color: lightblue;
+}
+
+.header_div{
+    background-color: lightcoral;
+    color:black;
+}
+
+.header_div p{
+    font-family:'Roboto Condensed', sans-serif;
+    color:black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Rubik Vinyl', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color: lightcoral;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
